@@ -1,0 +1,113 @@
+{
+  "name": "mfpurrs",
+  "description": "HUMAN SOCIETY SHALL BE ENCIPHERED",
+  "total_supply": "10000",
+  "logo_image_uri": "esc://ethscriptions/0x8a9e848d966f563216a991c1dd38a0a68d2293839b6ce7c35211b0c33a450f42/data",
+  "banner_image_uri": "https://iili.io/HQyYOtp.png",
+  "background_color": "#C4FF02",
+  "twitter_link": "",
+  "website_link": "https://mfpurrs.com",
+  "discord_link": "",
+  "collection_items": [
+    {
+      "ethscription_id": "0x24c811172056556dbeac086decd4905d32f79724029e7c407b321ee3670f6efd",
+      "name": "mfpurr #1",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 0,
+      "item_attributes": [
+        {
+          "value": "blue",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "siamese",
+          "trait_type": "fur"
+        },
+        {
+          "value": "orange",
+          "trait_type": "eye color"
+        },
+        {
+          "value": "none",
+          "trait_type": "clothing"
+        },
+        {
+          "value": "durag",
+          "trait_type": "hat"
+        },
+        {
+          "value": "red noggles",
+          "trait_type": "eyewear"
+        },
+        {
+          "value": "vape",
+          "trait_type": "mouth"
+        },
+        {
+          "value": "none",
+          "trait_type": "piercing"
+        },
+        {
+          "value": "none",
+          "trait_type": "honorary"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x3362d0e4a73e4fe7a03a758907b4fd3a07cbf4ff255492d81900b225379fd415",
+      "name": "mfpurr #2",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 1,
+      "item_attributes": [
+        {
+          "value": "yellow",
+          "trait_type": "background"
+        },
+        {
+          "value": "none",
+          "trait_type": "animated background"
+        },
+        {
+          "value": "orange tabby",
+          "trait_type": "fur"
+        },
+        {
+          "value": "green",
+          "trait_type": "eye color"
+        },
+        {
+          "value": "fashion hoodie",
+          "trait_type": "clothing"
+        },
+        {
+          "value": "none",
+          "trait_type": "hat"
+        },
+        {
+          "value": "morpheus",
+          "trait_type": "eyewear"
+        },
+        {
+          "value": "bored",
+          "trait_type": "mouth"
+        },
+        {
+          "value": "none",
+          "trait_type": "piercing"
+        },
+        {
+          "value": "none",
+          "trait_type": "honorary"
+        }
+      ]
+    }
+  ]
+}
