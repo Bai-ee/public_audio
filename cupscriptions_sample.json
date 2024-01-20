@@ -1,0 +1,134 @@
+bplist00�_WebMainResource�	
+_WebResourceFrameName_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURLPO)n<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.4">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">// 20240119223117</p>
+<p class="p1">// https://api.ethscriptions.com/api/collections/sample</p>
+<p class="p2"><br></p>
+<p class="p1">{</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"name": "mfpurrs",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"description": "HUMAN SOCIETY SHALL BE ENCIPHERED",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"total_supply": "10000",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"logo_image_uri": "esc://ethscriptions/0x8a9e848d966f563216a991c1dd38a0a68d2293839b6ce7c35211b0c33a450f42/data",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"banner_image_uri": "https://iili.io/HQyYOtp.png",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"background_color": "#C4FF02",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"twitter_link": "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"website_link": "https://mfpurrs.com",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"discord_link": "",</p>
+<p class="p1"><span class="Apple-converted-space">  </span>"collection_items": [</p>
+<p class="p1"><span class="Apple-converted-space">    </span>{</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"ethscription_id": "0x24c811172056556dbeac086decd4905d32f79724029e7c407b321ee3670f6efd",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"name": "mfpurr #1",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"description": "",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"external_url": "",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"background_color": "",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"item_index": 0,</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"item_attributes": [</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "blue",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "background"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "none",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "animated background"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "siamese",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "fur"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "orange",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "eye color"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "none",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "clothing"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "durag",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "hat"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "red noggles",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "eyewear"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "vape",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "mouth"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "none",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "piercing"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "none",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "honorary"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p1"><span class="Apple-converted-space">      </span>]</p>
+<p class="p1"><span class="Apple-converted-space">    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">    </span>{</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"ethscription_id": "0x3362d0e4a73e4fe7a03a758907b4fd3a07cbf4ff255492d81900b225379fd415",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"name": "mfpurr #2",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"description": "",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"external_url": "",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"background_color": "",</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"item_index": 1,</p>
+<p class="p1"><span class="Apple-converted-space">      </span>"item_attributes": [</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "yellow",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "background"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "none",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "animated background"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "orange tabby",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "fur"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "green",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "eye color"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "fashion hoodie",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "clothing"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "none",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "hat"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "morpheus",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "eyewear"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "bored",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "mouth"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "none",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "piercing"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>},</p>
+<p class="p1"><span class="Apple-converted-space">        </span>{</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"value": "none",</p>
+<p class="p1"><span class="Apple-converted-space">          </span>"trait_type": "honorary"</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p1"><span class="Apple-converted-space">      </span>]</p>
+<p class="p1"><span class="Apple-converted-space">    </span>}</p>
+<p class="p1"><span class="Apple-converted-space">  </span>]</p>
+<p class="p1">}</p>
+</body>
+</html>
+Ytext/htmlUutf-8_file:///index.html    ( ? Q g � � �***                           *,
